@@ -1,8 +1,8 @@
 # Description
 
-Official image to use PAServer, Firebird and Duall from containers.
+Custom image to use PAServer, Firebird and Duall from containers.
 
-This image is available at Docker Hub [here](https://hub.docker.com/r/duallsistemas/paserver-firebird).
+This image is available at Docker Hub [here](https://hub.docker.com/r/raulchiclano/paserver-firebird).
 
 <hr>
 
